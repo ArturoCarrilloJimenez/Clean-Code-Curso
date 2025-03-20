@@ -11,8 +11,11 @@ npm install
 ```
 
 Para ejecutar el proyecto, simplemente ejecuten
+
 ```
 yarn dev
 ó
 npm run dev
 ```
+
+![Certificado del curso](./UC-0e836d45-7387-42cf-949f-5df05b757e48.jpg)
